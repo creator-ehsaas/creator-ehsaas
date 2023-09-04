@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @creator-ehsaas
+- 👋 Hi, I’m Prathamesh Yadav
 - 👀 I’m interested in Python, UI/UX Designing, Android Development and Web Development
 - 🌱 I’m currently learning Flutter and AI/ML
 - 💞️ I’m looking to collaborate on Open Sources
